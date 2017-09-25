@@ -6,8 +6,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/sourcegraph/appdash"
-	"github.com/sourcegraph/appdash/sqltrace"
+	"github.com/sunrongya/appdash"
+	"github.com/sunrongya/appdash/sqltrace"
 )
 
 func init() {

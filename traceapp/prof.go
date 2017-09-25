@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/sourcegraph/appdash"
+	"github.com/sunrongya/appdash"
 )
 
 type profile struct {

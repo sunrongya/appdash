@@ -15,7 +15,7 @@ import (
 	"sync"
 
 	basictracer "github.com/opentracing/basictracer-go"
-	"github.com/sourcegraph/appdash"
+	"github.com/sunrongya/appdash"
 )
 
 // Recorder implements the basictracer.Recorder interface.

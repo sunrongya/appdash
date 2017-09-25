@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/sourcegraph/appdash/internal/wire"
+	"github.com/sunrongya/appdash/internal/wire"
 )
 
 // A SpanID refers to a single span.

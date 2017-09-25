@@ -3,7 +3,7 @@ package traceapp
 import (
 	"fmt"
 
-	"github.com/sourcegraph/appdash"
+	"github.com/sunrongya/appdash"
 )
 
 // aggItem represents a set of traces with the name (label) and their cumulative

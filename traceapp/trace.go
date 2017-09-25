@@ -1,6 +1,6 @@
 package traceapp
 
-import "github.com/sourcegraph/appdash"
+import "github.com/sunrongya/appdash"
 
 // collectTrace asks the given collector to collect all of the spans and
 // annotations in the given trace recursively. Any errors that occur during

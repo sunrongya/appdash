@@ -17,4 +17,4 @@ func importPathToDir(importPath string) string {
 }
 
 // Data is a virtual filesystem that contains template data used by Appdash.
-var Data = http.Dir(importPathToDir("github.com/sourcegraph/appdash/traceapp/tmpl/data"))
+var Data = http.Dir(importPathToDir("github.com/sunrongya/appdash/traceapp/tmpl/data"))

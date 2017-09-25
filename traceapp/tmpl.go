@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/sourcegraph/appdash"
-	"github.com/sourcegraph/appdash/traceapp/tmpl"
+	"github.com/sunrongya/appdash"
+	"github.com/sunrongya/appdash/traceapp/tmpl"
 
 	"github.com/gorilla/mux"
 )

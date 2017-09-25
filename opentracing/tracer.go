@@ -6,7 +6,7 @@ import (
 
 	basictracer "github.com/opentracing/basictracer-go"
 	opentracing "github.com/opentracing/opentracing-go"
-	"github.com/sourcegraph/appdash"
+	"github.com/sunrongya/appdash"
 )
 
 var _ opentracing.Tracer = NewTracer(nil) // Compile time check.
