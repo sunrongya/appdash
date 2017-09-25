@@ -12,7 +12,7 @@ import (
 	"time"
 
 	pio "github.com/gogo/protobuf/io"
-	"github.com/sourcegraph/appdash/internal/wire"
+	"github.com/sunrongya/appdash/internal/wire"
 )
 
 // maxMessageSize is the maximum buffer size for delimited protobuf messages.
