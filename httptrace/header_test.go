@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"testing"
 
-	"sourcegraph.com/sourcegraph/appdash"
+	"github.com/sourcegraph/appdash"
 )
 
 func TestSetSpanIDHeader(t *testing.T) {

@@ -15,8 +15,8 @@ import (
 
 	"strings"
 
-	"sourcegraph.com/sourcegraph/appdash"
-	"sourcegraph.com/sourcegraph/appdash/traceapp"
+	"github.com/sourcegraph/appdash"
+	"github.com/sourcegraph/appdash/traceapp"
 )
 
 func init() {
